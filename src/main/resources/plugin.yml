@@ -1,0 +1,5 @@
+name: GenjaPlugin
+version: ${project.version}
+main: me.forsy.genjaplugin.Main
+api-version: 1.16
+authors: [Forsy]
